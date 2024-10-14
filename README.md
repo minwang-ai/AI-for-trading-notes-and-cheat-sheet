@@ -1,0 +1,1 @@
+# AI-for-trading-notes-and-cheat-sheet
