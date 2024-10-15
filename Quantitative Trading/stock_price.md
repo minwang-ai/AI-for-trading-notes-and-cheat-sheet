@@ -51,3 +51,60 @@ A security is a financial asset that represents ownership, debt, or the right to
 | **Key Benefits**         | **Common Stock:** Can provide high returns if the company grows. <br> **Preferred Stock:** Fixed dividend payments with less volatility. <br> **Private Equity:** Potential for large returns if the company grows or is sold.                    | **Options:** Flexibility to buy or sell at a fixed price without obligation. <br> **Futures:** Locks in prices and protects buyers/sellers from extreme market volatility.                                                     | Fixed, stable, regular returns; safer investments                                                                       |
 | **Ownership**            | **Yes.** <br> **Common Stock:** Ownership stake in the company with voting rights. <br> **Preferred Stock:** Ownership with a fixed income stream but without voting rights. <br> **Private Equity:** Ownership with significant influence or control over the company’s operations through board seats or agreements (no traditional voting rights). | **No.** Only contracts based on the value of underlying assets.                                                                                                                         | **No.** Just a lender, not a shareholder                                                                                  |
 ---
+
+
+### Example for Securities with Price Fluctuation Scenarios
+1. **Equity Securities:**
+ - **Common Stock**
+
+    Scenario: 
+    You own 100 shares of Apple stock at $150 per share. <br>
+    Price Increase: If Apple’s stock price rises to $180, you could sell the shares and profit $30 per share (capital gains), resulting in a total profit of $3,000 (100 shares x $30).<br>
+    Price Decrease: If Apple’s stock price drops to $120, your shares lose value. You would have a paper loss of $3,000 if you sold them at this lower price.
+ 
+ - **Preferred Stock**
+
+    Scenario: 
+    You own 100 shares of Preferred stock in a company, each paying a fixed dividend of $5 per share annually.<br>
+    Price Fluctuations: Preferred stock is less volatile. Whether the company’s stock price rises to $120 or drops to $80, you still receive your fixed dividend of $500 per year (100 shares x $5 dividend).<br>
+    Price Drop: Even if the stock price drops significantly, you still receive dividends, but the value of your shares could fall if the company faces trouble.
+ 
+ - **Private Equity**
+
+    Scenario: You invest $50,000 in a startup through private equity.<br>
+    Company Growth: If the startup becomes successful, your investment could grow significantly. For example, if your stake is worth $200,000 after 5 years, you've made a 4x return.<br>
+    Failure: If the startup fails, you could lose your entire $50,000 investment since private equity investments are illiquid and high-risk.
+
+2. **Derivative Securities:**
+ - **Call Option (Right to Buy)**
+
+    Scenario: You buy a call option on Tesla stock with a strike price of $500 and pay a $10 premium for 100 shares.<br>
+    Price Increase: Tesla’s stock rises to $600. You exercise your option and buy 100 shares for $500 each. You sell them at $600, making a $10,000 profit (before subtracting the $1,000 premium).<br>
+    Price Decrease: Tesla’s stock stays below $500. You do not exercise the option, and you lose only the $1,000 premium paid.
+
+ - **Put Option (Right to Sell)**
+
+    Scenario: You buy a put option on Apple stock with a strike price of $150, paying a $5 premium for 100 shares.<br>
+    Price Decrease: Apple’s stock falls to $120. You exercise your option and sell 100 shares for $150 each, making a $3,000 profit (before subtracting the $500 premium).<br>
+    Price Increase: Apple’s stock stays above $150. You don’t exercise the option, and your maximum loss is the $500 premium.
+
+ - **Futures**
+
+    Scenario: You enter a futures contract to buy 100 barrels of oil at $70 per barrel in 3 months.<br>
+    Price Increase: If the price of oil rises to $90 per barrel, you buy at $70, making a $20 profit per barrel ($2,000 total).<br>
+    Price Decrease: If the price drops to $60 per barrel, you are still obligated to buy at $70, leading to a $10 loss per barrel ($1,000 total).
+
+3. **Debt Securities:**
+ - **Bonds**
+
+    Scenario: You buy a corporate bond for $10,000 with a 5% annual interest rate, maturing in 10 years.<br>
+    Price Stability: You receive $500 interest annually, and at the end of 10 years, you get back the $10,000 principal.<br>
+    Risk of Default: If the company goes bankrupt, there’s a risk that you may not receive the full amount of interest or principal.
+
+ - **Certificates of Deposit (CDs)**
+
+    Scenario: You invest $10,000 in a 1-year CD with a 3% interest rate.<br>
+    Price Stability: After one year, you will receive $300 in interest and get your $10,000 back.<br>
+    Risk: CDs are considered very low risk, but your returns are fixed, and if inflation rises, the real value of your returns decreases.
+
+
