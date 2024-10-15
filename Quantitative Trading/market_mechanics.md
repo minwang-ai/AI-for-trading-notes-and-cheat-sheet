@@ -13,5 +13,29 @@ Demand for a stock is determined by the number of orders placed and the prices b
 - **Limit Orders**: Allow traders to specify the price at which they are willing to buy or sell. The trade only occurs if the stock reaches the specified price. This gives the trader control over the execution price, but the trade may not happen if the price doesn’t reach the set limit.
 
 ### Important Roles
-- **Market Makers**: Financial institutions, like Citadel Securities, that ensure liquidity by constantly offering to buy or sell stocks at publicly listed prices. They help facilitate trades by providing shares even if there is no immediate buyer or seller available. Market makers earn profits through the bid-ask spread, charging slightly higher prices to sell stocks than what they pay to buy them. They take on some risk, but their role is crucial for keeping the market liquid and efficient.
-- **Stock Exchanges**: Stock exchanges, like the New York Stock Exchange (NYSE), act as the central platform where trading takes place. The exchange records and displays the last traded price of a stock, which provides an indicator of its current market value. Stock exchanges ensure that all trades are carried out fairly, efficiently, and transparently.
+* **Market makers** are financial institutions, like Citadel Securities, that continuously offer to buy or sell stocks at publicly listed prices. They facilitate trades by stepping in to provide liquidity, ensuring that trades can occur even when there isn't an immediate buyer or seller. Market makers earn profits through the bid-ask spread—buying stocks at a lower price and selling them at a slightly higher price. While they take on some risk, their role is essential for maintaining smooth market operations and ensuring liquidity.
+    * **Liquidity** refers to how easily an asset can be traded at a stable price—without causing significant price fluctuations.
+        * Cash is considered the most liquid asset because it can be readily exchanged for other assets. However, currency values can fluctuate, making cash worth more or less over time, much like stocks.
+        * Highly liquid stocks, like Apple, are frequently traded, allowing large volumes to be bought or sold with minimal impact on price.
+        * Illiquid stocks, such as penny stocks, are traded infrequently, making it harder to execute trades at consistent prices.
+    * **Example:** If you want to sell a large number of Apple shares, a market maker can step in to buy them, preventing a sharp drop in price due to excess supply.
+* **Stock exchanges**, like the New York Stock Exchange (NYSE), serve as the central platform where trading takes place. The exchange records and displays the last traded price of a stock, which serves as an indicator of its current market value. Stock exchanges ensure that all trades are executed fairly, efficiently, and transparently.
+
+### Buy Side and Sell Side
+In financial markets, buy side and sell side are terms used to describe two distinct groups that participate in stock trading. These labels do not indicate whether someone is exclusively buying or selling, but rather describe the role of the market participant in the transaction.
+#### Buy Side
+* The buy side consists of investors and institutions that seek to buy or sell assets (such as stocks and bonds) for investment purposes on behalf of their clients or shareholders. These participants aim to maximize returns on their investments by making informed decisions based on asset analysis.
+* Examples:
+    * **Individual investors**
+    * **Institutional investors** such as mutual funds, hedge funds, and pension funds
+#### Sell Side
+* The sell side facilitates transactions by assisting buyers and sellers with trades or by stepping in as counterparties to provide liquidity. Unlike the buy side, the sell side does not invest for long-term returns; instead, it earns profits through fees, commissions, or the bid-ask spread.
+* Examples:
+    * **Market Makers:** Firms that provide liquidity by buying and selling securities, ensuring that trades can happen even when there is no immediate buyer or seller.
+    * **Brokers:** Intermediaries that execute trades on behalf of the buy side (clients) and charge a commission for doing so.
+    * **Investment Banks:** Banks that assist companies with raising capital through IPOs and bond issuance, facilitate large financial transactions such as mergers and acquisitions, and may operate trading desks to offer market-making services.
+
+
+### Global Trading and Arbitrage
+Stocks can be listed and traded across multiple markets globally. For instance, HSBC shares trade in both New York and Hong Kong. While the same stock may trade at slightly different prices in different markets due to supply and demand, significant price discrepancies typically resolve quickly.
+* **Arbitrage:** Traders can exploit small price differences across markets —buying a stock in one market at a lower price and selling it in another market at a higher price, capitalizing on market inefficiencies.
